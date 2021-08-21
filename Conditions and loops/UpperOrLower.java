@@ -10,6 +10,6 @@ public class UpperOrLower {
         if(ch >= 'a' && ch <= 'z')
             System.out.println("Lower case");
         else
-            System.out.println("Upper case");
+            System.out.println("Upper case");//For upper case
     }
 }
