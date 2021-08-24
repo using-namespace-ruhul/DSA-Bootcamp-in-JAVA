@@ -10,7 +10,7 @@ public class OrderAgnoBinarySearch {
         int start = 0;
         int end = arr.length - 1;
 
-        //Checking whether array is sorted in asc pr disc order.
+        //Checking whether array is sorted in asc or disc order.
         boolean isAsc = arr[start]<arr[end];
 //        if(arr[start]<arr[end]){
 //            isAsc = true;
